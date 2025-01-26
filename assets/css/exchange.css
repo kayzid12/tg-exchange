@@ -1,0 +1,60 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+div.content1{
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+}
+div.content1 img{
+    width: 200px;
+    margin-top: 40px;
+}
+div.content2 h2{
+    font-size: 30px;
+    color: rgb(34, 34, 68);
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 10px;
+}
+
+form{
+    margin-top: 10px;
+    padding: 10px;
+}
+div.input-group{
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    width: 100%;
+    color: rgb(59, 57, 57);
+}
+
+div.button{
+    padding: 10px;
+}
+button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: rgb(65, 65, 112);
+    color: white;
+    font-size: 12px;
+}
+div.content3{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+div.content3 h3{
+    font-size: 30px;
+    color: rgb(38, 38, 70);
+}
+div.content3 p{
+    margin-top: 15px;
+    font-size: 17px;
+}
