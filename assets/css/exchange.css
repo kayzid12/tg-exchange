@@ -58,3 +58,30 @@ div.content3 p{
     margin-top: 15px;
     font-size: 17px;
 }
+
+.success1{
+    margin-top: 30px;
+    padding: 10px;
+}
+.success1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+.success2{
+    margin-top: 20px;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+}
+.success2 img{
+    width: 150px;
+    margin-top: 20px;
+}
+
+.success3{
+    margin-top: 40px;
+    padding: 10px;
+}
+.success3 p{
+    font-size: 20px;
+}
